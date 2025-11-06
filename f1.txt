@@ -1,3 +1,2 @@
 line 1
 hello line 2
-hi it's line 3
